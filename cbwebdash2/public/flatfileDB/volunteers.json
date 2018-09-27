@@ -1,0 +1,46 @@
+{
+    "data":
+    [
+        {
+            "volName":"Aditya Desai",
+            "volAddress":"Ghatkopar (W)",
+            "volPhone":"+91-9800004544",
+            "volEmail":"aditya.desai@codebreakers.com",
+            "volLat":"19.099711",
+            "volLong":"72.9142363"
+        },
+        {
+            "volName":"Alok Chilka",
+            "volAddress":"Bhandup (W)",
+            "volPhone":"+91-9800004545",
+            "volEmail":"alok.chilka@codebreakers.com",
+            "volLat":"19.1319178",
+            "volLong":"72.9254583"
+        },
+        {
+            "volName":"Pratik Joshi",
+            "volAddress":"Kanjurmag (W)",
+            "volPhone":"+91-9800004546",
+            "volEmail":"pratik.joshi@codebreakers.com",
+            "volLat":"19.1479767",
+            "volLong":"72.9142934"
+        },
+        {
+            "volName":"Vivek Jain",
+            "volAddress":"Hiranandani Gardens, Powai",
+            "volPhone":"+91-9800004547",
+            "volEmail":"vivek.jain@codebreakers.com",
+            "volLat":"19.1250606",
+            "volLong":"72.8875394"
+        },
+        {
+            "volName":"Utkarsh Chauhan",
+            "volAddress":"Jogeshwari (E)",
+            "volPhone":"+91-9800004548",
+            "volEmail":"utkarsh.chauhan@codebreakers.com",
+            "volLat":"19.1300798",
+            "volLong":"72.8709851"
+        }
+    ]
+}
+

@@ -1,0 +1,32 @@
+
+    {
+      "data":
+     [
+        {
+        "hlpcName":"Naval Hospital",
+        "hlpcAddress":"Kanjurmarg (W)",
+        "hlpcPhone":"+91-2233204544",
+        "hlpcEmail":"helpcenter@codebreakers.com",
+        "hlpcLat":"19.1310838",
+          "hlpcLong":"72.9227365"  
+      },
+        {
+        "hlpcName":"Holy Trinity Church",
+        "hlpcAddress":"Powai",
+        "hlpcPhone":"+91-2233204546",
+        "hlpcEmail":"helpcenter@codebreakers.com",
+        "hlpcLat":"19.120128",
+          "hlpcLong":"72.8932352" 
+      },
+        {
+        "hlpcName":"Lodha Auram Grande",
+        "hlpcAddress":"Kanjurmag (E)",
+        "hlpcPhone":"++91-2233204547",
+        "hlpcEmail":"helpcenter@codebreakers.com",
+        "hlpcLat":"19.1291477",
+        "hlpcLong":"72.926556"  
+      }
+     ]
+    }
+
+  

@@ -1,0 +1,47 @@
+{
+    "data":
+    [
+
+        {
+            "AreaName":"Ghatkopar",
+            "TotalMen":"224165",
+            "TotalWomen":"195160",
+            "TotalChildren":"38541",
+            "SeniorCitizen":"31104",
+            "AreaPopulation":"488970"
+        },
+        {
+            "AreaName":"Bhandup", 
+            "TotalMen":"225164",
+            "TotalWomen":"193926",
+            "TotalChildren":"37077",
+            "SeniorCitizen":"33650",
+            "AreaPopulation":"489817"
+        },
+        {
+            "AreaName":"Powai", 
+            "TotalMen":"227763",
+            "TotalWomen":"194976",
+            "TotalChildren":"38480",
+            "SeniorCitizen":"29765",
+            "AreaPopulation":"490984"
+        },
+        {
+            "AreaName":"Kanjurmarg", 
+            "TotalMen":"229955",
+            "TotalWomen":"163204",
+            "TotalChildren":"39549",
+            "SeniorCitizen":"31799",
+            "AreaPopulation":"464507"
+        },
+        {
+            "AreaName":"Jogeshwari", 
+            "TotalMen":"249934",
+            "TotalWomen":"178321",
+            "TotalChildren":"37908",
+            "SeniorCitizen":"26083",
+            "AreaPopulation":"492246"
+        }
+
+    ]
+}
